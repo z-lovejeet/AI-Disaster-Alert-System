@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Flood",
+    "level": "High",
+    "time": "Now",
+    "details": "Severe flood in river bank",
+    "position": [
+      20.5,
+      78.9
+    ]
+  },
+  {
+    "type": "Cyclone",
+    "level": "Medium",
+    "time": "1h ago",
+    "details": "Cyclone forming near coast",
+    "position": [
+      19.0,
+      72.8
+    ]
+  }
+]
